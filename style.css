@@ -1,0 +1,43 @@
+.parallax {
+    width: 100%;
+    background-image: url(./kung-pandas_kvvQqQ3.webp);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+.parallax1 {
+    width: 100%;
+    background-image: url(./images1.jpeg);
+    min-height: 600px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+.parallax2 {
+    width: 100%;
+    background-image: url(./download2.jpeg);
+    min-height: 600px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+h1{
+    text-align: center;
+    padding-top: 300px;
+   font-family: cursive;
+    font-weight: 600;
+    color: white;
+
+}
+.nav{
+    color: black;
+    font-family: cursive;
+    font-weight: 600;
+}
+
+
